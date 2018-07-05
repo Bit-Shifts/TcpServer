@@ -1,0 +1,8 @@
+C:\Users\jsimmons\Documents\Visual Studio 2015\Projects\TcpServerAsync\TcpServerAsync\bin\Release\TcpServerAsync.exe.config
+C:\Users\jsimmons\Documents\Visual Studio 2015\Projects\TcpServerAsync\TcpServerAsync\bin\Release\TcpServerAsync.exe
+C:\Users\jsimmons\Documents\Visual Studio 2015\Projects\TcpServerAsync\TcpServerAsync\bin\Release\TcpServerAsync.pdb
+C:\Users\jsimmons\Documents\Visual Studio 2015\Projects\TcpServerAsync\TcpServerAsync\bin\Release\MySql.Data.dll
+C:\Users\jsimmons\Documents\Visual Studio 2015\Projects\TcpServerAsync\TcpServerAsync\bin\Release\MySql.Data.xml
+C:\Users\jsimmons\Documents\Visual Studio 2015\Projects\TcpServerAsync\TcpServerAsync\obj\Release\TcpServerAsync.csprojResolveAssemblyReference.cache
+C:\Users\jsimmons\Documents\Visual Studio 2015\Projects\TcpServerAsync\TcpServerAsync\obj\Release\TcpServerAsync.exe
+C:\Users\jsimmons\Documents\Visual Studio 2015\Projects\TcpServerAsync\TcpServerAsync\obj\Release\TcpServerAsync.pdb
