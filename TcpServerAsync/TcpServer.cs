@@ -84,6 +84,7 @@ namespace TcpServerAsync
                 //An action to consume the ConcurrentQueue.
                 Action dataHandler = () =>
                 {
+                    //Connection string for a test mySql database
                     string myConnectionString = "server=localhost;database=tcptest;uid=root;pwd=Password";
 
                     List<string> rows = new List<string>();
@@ -110,7 +111,7 @@ namespace TcpServerAsync
                     }
                 };
 
-                //Playing around with Actions and Task to monitor their behavoir in different instances
+                //Playing around with Actions and Tasks to test their performance
                 var task = Task.Factory.StartNew(dataHandler, TaskCreationOptions.LongRunning);
 
                 using (var networkStream = tcpClient.GetStream())
